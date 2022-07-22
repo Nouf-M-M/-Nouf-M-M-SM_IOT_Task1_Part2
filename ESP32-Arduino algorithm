@@ -1,8 +1,9 @@
-# Connecting ESP32 to Arduino
+Connecting ESP32 to Arduino
 
-## Prerequisites:
+Prerequisites:
 Install Arduino IDE: [https://www.arduino.cc/en/software](url)
-## Installing ESP32 in Arduino IDE:
+
+Installing ESP32 in Arduino IDE:
 1.	Open the Adruino IDE,go to File> Preferences.
 2.	In the Settings tab in the Preferences dialog box, go to “Additional Boards Manager URLs”.
 3.	Enter[ https://dl.espressif.com/dl/package_esp32_index.json](url), then press OK.
